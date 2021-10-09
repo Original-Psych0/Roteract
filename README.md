@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">Roteract</h1>
 <h4 align="center">Powerful Roblox framework</h4>
 <p align="center">
@@ -23,7 +24,7 @@ NPM Packages:
     node index.js
 
 ## Contributing
-I would love you to help me with the development of Roteract, every contribution will be appreciated even though I can't enable the feature.
+I would love you to help me with the development of Roteract, every contribution will be appreciated.
 
 ### Do you have any suggestions?
 If you have any suggestions please make a "Pull requests" [here](https://github.com/Original-Psych0/Roteract/pulls).
